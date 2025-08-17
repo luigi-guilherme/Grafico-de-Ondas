@@ -20,7 +20,7 @@ y(x,t) é feito com base na função seno, aproximada via Série de Taylor, resp
 
 🧩 Disciplinas Envolvidas
 
-Este projeto integra conhecimentos de múltiplas disciplinas do curso de Engenharia da Computação:
+Este projeto integra conhecimentos de múltiplas disciplinas do curso de Engenharia da Computação: 
 
 🔷 Programação Orientada a Objetos
 
