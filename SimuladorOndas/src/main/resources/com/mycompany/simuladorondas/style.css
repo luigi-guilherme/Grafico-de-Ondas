@@ -1,0 +1,43 @@
+/* Estilo para os TextField */
+.text-field {
+    -fx-pref-width: 200px; /* Largura preferida */
+    -fx-padding: 5px;      /* Espaçamento interno */
+    -fx-border-color: #6c757d; /* Cor da borda */
+    -fx-border-radius: 5px; /* Arredondar as bordas */
+    -fx-background-radius: 5px; /* Arredondar o fundo */
+}
+
+/* Estilo para os Labels */
+.label {
+    -fx-font-size: 14px; /* Tamanho da fonte */
+    -fx-font-weight: bold; /* Negrito */
+    -fx-text-fill: #333333; /* Cor do texto */
+}
+
+/* Estilo para o botão */
+.button {
+    -fx-background-color: #007bff; /* Cor de fundo azul */
+    -fx-text-fill: white;           /* Cor do texto branco */
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-padding: 10px 20px;
+}
+
+/* Estilo para o LineChart */
+.chart {
+    -fx-padding: 20px;
+    
+}
+
+.chart-legend {
+    -fx-background-color: transparent;
+    -fx-padding: 10 0 0 0; /* Ajusta o espaçamento superior */
+    -fx-halignment: center; /* Centraliza a legenda horizontalmente */
+    -fx-orientation: horizontal; /* Define a orientação para horizontal */
+}
+
+.chart-legend-item {
+    -fx-padding: 0 10 0 0; /* Ajusta o espaçamento entre os itens da legenda */
+}
+
+
